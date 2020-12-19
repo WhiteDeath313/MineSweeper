@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MineSweeper</string>
+    <string name="minesweeper">MINESWEEPER</string>
+    <string name="flag">FLAG</string>
+    <string name="flag_number">20</string>
+    <string name="restart">RESTART</string>
+    <string name="bomb">BOMB</string>
+    <string name="bomb_number">0</string>
 </resources>
