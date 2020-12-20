@@ -6,4 +6,14 @@
     <string name="restart">RESTART</string>
     <string name="bomb">BOMB</string>
     <string name="bomb_number">0</string>
+    <string name="mode">MODE</string>
+    <string name="one_mine_around">One mine</string>
+    <string name="two_mine_around">Two mines</string>
+    <string name="three_mine_around">Three mines</string>
+    <string name="four_mines_around">Four mines</string>
+    <string name="five_mines_around">Five mines</string>
+    <string name="six_mines_around">Six mines</string>
+    <string name="seven_mines_around">Seven mines</string>
+    <string name="eight_mines_around">Eight mines</string>
+    <string name="color_code">COLOR CODE</string>
 </resources>
